@@ -177,8 +177,6 @@ footer {
 
 .blog-piece{
     color: black;
-    font-size: 25px;
-
 }
 
 .blog-piece img{
@@ -194,4 +192,9 @@ footer {
     margin: 0;
     padding: 0;
     width: 850px;
+}
+
+.blog-text{
+    padding: 0 100px 0 0;
+    font-size: 20px;
 }
