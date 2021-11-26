@@ -175,6 +175,11 @@ footer {
     text-align: left;
 }
 
+.paragraph h3{
+    font-size: 25px;
+    font-weight: 400;
+}
+
 .blog-piece{
     color: black;
 }
